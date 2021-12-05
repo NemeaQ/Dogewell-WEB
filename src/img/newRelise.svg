@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256" height="320" viewBox="0 0 256 320">
+  <defs>
+    <filter id="Эллипс_4" x="0" y="0" width="139" height="139" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="16" result="blur"/>
+      <feFlood flood-opacity="0.431"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="новый_релиз_" data-name="новый релиз!" transform="translate(-1630 -174)">
+    <rect id="Прямоугольник_9" data-name="Прямоугольник 9" width="188" height="188" rx="20" transform="translate(1698 236)" fill="#515151"/>
+    <text id="Новый_релиз_2" data-name="Новый
+релиз!" transform="translate(1792 460)" fill="#4a4a4a" font-size="26" font-family="GothamPro, Gotham Pro"><tspan x="-43.992" y="0">Новый</tspan><tspan x="-42.653" y="29">релиз!</tspan></text>
+    <g transform="matrix(1, 0, 0, 1, 1630, 174)" filter="url(#Эллипс_4)">
+      <circle id="Эллипс_4-2" data-name="Эллипс 4" cx="21.5" cy="21.5" r="21.5" transform="translate(48 48)" fill="#fb3939"/>
+    </g>
+    <text id="_1" data-name="1" transform="translate(1700 253)" fill="#fff" font-size="26" font-family="GothamPro, Gotham Pro"><tspan x="-4.654" y="0">1</tspan></text>
+  </g>
+</svg>

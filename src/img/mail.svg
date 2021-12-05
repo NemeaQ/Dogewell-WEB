@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="416" height="67" viewBox="0 0 416 67">
+  <g id="почта" transform="translate(-752 -569)">
+    <rect id="Прямоугольник_7" data-name="Прямоугольник 7" width="416" height="67" rx="20" transform="translate(752 569)" fill="#fff"/>
+    <text id="dogewell_hotmail.com" data-name="dogewell@hotmail.com" transform="translate(971 612)" fill="#4a4a4a" font-size="26" font-family="GothamPro, Gotham Pro"><tspan x="-150.475" y="0">dogewell@hotmail.com</tspan></text>
+    <circle id="Эллипс_2" data-name="Эллипс 2" cx="18" cy="18" r="18" transform="translate(770 585)" fill="#4a4a4a"/>
+    <g id="email" transform="translate(779.848 596.994)">
+      <g id="Сгруппировать_11" data-name="Сгруппировать 11" transform="translate(0 3.388)">
+        <g id="Сгруппировать_10" data-name="Сгруппировать 10">
+          <path id="Контур_7" data-name="Контур 7" d="M8.624,151.878a.927.927,0,0,1-.963,0L0,147.2v6.218a2.407,2.407,0,0,0,2.406,2.406H13.9a2.407,2.407,0,0,0,2.406-2.406V147.2Z" transform="translate(0 -147.2)" fill="#fdfdfd"/>
+        </g>
+      </g>
+      <g id="Сгруппировать_13" data-name="Сгруппировать 13" transform="translate(0.077 0)">
+        <g id="Сгруппировать_12" data-name="Сгруппировать 12" transform="translate(0 0)">
+          <path id="Контур_8" data-name="Контур 8" d="M15.87,57.088H4.377a2.392,2.392,0,0,0-2.329,1.887L10.133,63.9,18.2,58.975A2.392,2.392,0,0,0,15.87,57.088Z" transform="translate(-2.048 -57.088)" fill="#fdfdfd"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

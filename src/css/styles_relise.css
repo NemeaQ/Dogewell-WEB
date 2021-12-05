@@ -1,0 +1,113 @@
+@font-face {
+    font-family: "Gotham";
+    src: url("css/fonts/GothaProLig.otf") format("opentype"),
+}
+@font-face {
+    font-family: "GothamBold";
+    src: url("css/fonts/GothaProBla.otf") format("opentype"),
+}
+
+
+html, body{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    font-size: 36px;
+    margin-bottom: 0px;
+}
+
+body {
+    background-color: #eee;
+    color: #4A4A4A;
+    font-family: Gotham, sans-serif;
+    color: #000
+}
+
+
+
+.flex {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    grid-row-gap: 28px;
+    padding: 70px;
+}
+
+.cover {
+    width: 388px;
+    background: #EF3426;
+    box-shadow: 0 0 40px rgba(0, 0, 0, 0.05);
+    border-radius: 13px;
+}
+
+.title {
+    font-size: 30px;
+    line-height: 43px;
+    margin: 0;
+    text-align: center;
+    max-width: 388px;
+}
+
+.services {
+    display: grid;
+    grid-row-gap: 5px;
+}
+
+.service {
+    display: grid;
+    grid-template-columns: min-content 1fr min-content;
+    grid-column-gap: 9px;
+    padding: 10px 13px;
+    align-items: center;
+    background: #FBFBFB;
+    box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.05);
+    border-radius: 11px;
+}
+
+.service__name {
+    font-size: 24px;
+    line-height: 29px;
+}
+
+.servive__icon {
+    width: 32px;
+    box-shadow: 0px 0px 14px rgba(0, 0, 0, 0.15);
+    border-radius: 8px;
+}
+
+.service__btn {
+    padding: 5px 23px;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 48px;
+    text-decoration: none;
+    color: #000;
+    transition: 200ms ease-out;
+}
+
+.service__btn:hover {
+    background: #15F999;
+    box-shadow: 0 4px 21px #15F999;
+    border: 1px solid #15F999;
+}
+
+.site__btn {
+    padding: 5px 23px;
+    background: #EF3426;
+    box-shadow: 0 8px 30px rgba(255, 44, 29, 0.79);
+    box-sizing: border-box;
+    border-radius: 34px;
+    text-decoration: none;
+    color: #fff;
+    transition: 200ms ease-out;
+    font-size: 28px;
+    line-height: 33px;
+}
+
+.footer {
+    text-align: center;
+}

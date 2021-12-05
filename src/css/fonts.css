@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Circular';
+    src: url('../font/Circular-regular.eot');
+    src: local('☺'), url('../font/Circular-regular.woff') format('woff'), url('../font/Circular-regular.ttf') format('truetype'), url('../font/Circular-regular.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CircularBold';
+    src: url('../font/Circular-bold.eot');
+    src: local('☺'), url('../font/Circular-bold.woff') format('woff'), url('../font/Circular-bold.ttf') format('truetype'), url('../font/Circular-bold.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'CircularBlack';
+    src: url('../font/Circular-black.eot');
+    src: local('☺'), url('../font/Circular-black.woff') format('woff'), url('../font/Circular-black.ttf') format('truetype'), url('../font/Circular-black.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

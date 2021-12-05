@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="981" height="358" viewBox="0 0 981 358">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Прямоугольник_2" data-name="Прямоугольник 2" width="183" height="183"/>
+    </clipPath>
+  </defs>
+  <g id="Сгруппировать_1" data-name="Сгруппировать 1" transform="translate(-470 -361)">
+    <rect id="Прямоугольник_1" data-name="Прямоугольник 1" width="981" height="358" rx="30" transform="translate(470 361)" fill="#fff"/>
+    <circle id="Эллипс_1" data-name="Эллипс 1" cx="132.5" cy="132.5" r="132.5" transform="translate(534 408)" fill="#1a1a1a"/>
+    <g id="dogewell_svg" data-name="dogewell svg" transform="translate(575 449)" clip-path="url(#clip-path)">
+      <path id="Контур_1" data-name="Контур 1" d="M461.558,982.008c0-.768,3.84-56.448,3.84-56.448" transform="translate(-437.366 -877.048)" fill="rgba(0,0,0,0)" stroke="#ef2626" stroke-linecap="round" stroke-width="13"/>
+      <path id="Контур_2" data-name="Контур 2" d="M837.642,919.7s31.616-7.04,33.024-30.464c.768-13.184-8.32-24.96-29.056-22.656Z" transform="translate(-794.42 -821.411)" fill="rgba(0,0,0,0)" stroke="#ef2626" stroke-linecap="round" stroke-linejoin="round" stroke-width="13"/>
+      <path id="Контур_3" data-name="Контур 3" d="M874.273,1389.7c15.738-3.217,45.69-14.1,49.53-46.865" transform="translate(-828.187 -1272.82)" fill="rgba(0,0,0,0)" stroke="#ef2626" stroke-linecap="round" stroke-width="13"/>
+      <path id="Контур_4" data-name="Контур 4" d="M923.117,870.418c25.984-4.48,31.468-16.522,35.9-6.282s7.385,22.843,12.9,8.172,5.969-23.957,16.6.954c5.407,12.666,12.746-27.239,17.505-52.981,3.731-20.182,10.611-32.832-12.813-37.44s-34.194-6.922-34.194-6.922" transform="translate(-874.733 -735.25)" fill="rgba(0,0,0,0)" stroke="#ef2626" stroke-linecap="round" stroke-linejoin="round" stroke-width="13"/>
+      <path id="Контур_5" data-name="Контур 5" d="M461.558,891.617c0-.768,13.015-61.447,13.015-61.447" transform="translate(-321.742 -754.267)" fill="rgba(0,0,0,0)" stroke="#ef2626" stroke-linecap="round" stroke-width="13"/>
+    </g>
+    <line id="Линия_1" data-name="Линия 1" x2="496" transform="translate(871.5 540.5)" fill="none" stroke="#707070" stroke-width="1"/>
+    <text id="Электронный_композитор_и_графический_дизайнер_из_России_вдохновляюсь_электро-_хаусом_нулевых_и_играю_на_укулеле." data-name="Электронный композитор и графический 
+дизайнер из России, вдохновляюсь электро-
+хаусом нулевых и играю на укулеле." transform="translate(872 582)" font-size="21" font-family="GothamPro, Gotham Pro"><tspan x="0" y="0">Электронный композитор и графический </tspan><tspan x="0" y="23">дизайнер из России, вдохновляюсь электро-</tspan><tspan x="0" y="46">хаусом нулевых и играю на укулеле.</tspan></text>
+    <text id="Dogewell" transform="translate(872 448)" font-size="33" font-family="GothamPro-Bold, Gotham Pro" font-weight="700"><tspan x="0" y="0">Dogewell</tspan></text>
+    <g id="КНОПКА_ПОДПИСАТЬСЯ" data-name="КНОПКА ПОДПИСАТЬСЯ" transform="translate(33 -282)">
+      <rect id="Прямоугольник_3" data-name="Прямоугольник 3" width="233" height="59" rx="10" transform="translate(839 745)" fill="red"/>
+      <text id="ПОДПИСАТЬСЯ" transform="translate(857 783)" fill="#fff" font-size="24" font-family="GothamPro-Bold, Gotham Pro" font-weight="700"><tspan x="0" y="0">ПОДПИСАТЬСЯ</tspan></text>
+    </g>
+  </g>
+</svg>
