@@ -3,7 +3,7 @@
 <html lang="ru" class="page">
 <head>
     <meta charset="utf-8">
-    <title><?= $title ?></title>
+    <title>Dogewell: <?= $title ?></title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="rgba(53, 53, 53, 1)">
     <meta name="description"
@@ -29,14 +29,22 @@
 
 </head>
 <body class="page__body l-wrap">
+<div class="brand">
+    <img class="bland__title" src="/src/img/BRAND.svg" alt="Брэнд-лого">
+    <h1 aria-hidden="true">Dogewell - Официальный сайт исполнителя</h1>
+<!--    <img class="bland__logo" src="/src/img/LOGO.svg">-->
+</div>
 <header>
-    <img class="header__brand" src="/src/img/BRAND.svg">
-    <div class="header__title">
-        <a class="header__link" href="/" title="На галвную"><img src="/src/img/arrow.svg"></a>
-        <h1 class="page__title"><?= $title ?></h1>
-    </div>
+    <nav class="menu">
+        <a class="menu__link" href="/music">Музыка</a>
+        <a class="menu__link" href="/about">Обо мне</a>
+        <a class="menu__link" href="/video">Видео</a>
+        <a class="menu__link" href="/release">Новый релиз</a>
+    </nav>
 </header>
-<?php echo $content; ?>
+<!--<main class="page__wrapper">-->
+<!--    --><?php //echo $content; ?>
+<!--</main>-->
 <script src="/src/js/script.js"></script>
 </body>
 </html>

@@ -32,7 +32,8 @@ class MainController extends Controller
      */
     public function indexAction()
     {
-        $this->view->render('Электронный композитор и автор песен | ');
+        $this->view->layout = 'main';
+        $this->view->render('Электронный композитор и автор песен');
     }
 
     /**
@@ -40,22 +41,22 @@ class MainController extends Controller
      */
     public function musicAction()
     {
-        $this->view->render('Моя музыка | ');
+        $this->view->render('Music');
     }
 
     public function videoAction()
     {
-        $this->view->render('Мои видео | ');
+        $this->view->render('Videos');
     }
 
     public function aboutAction()
     {
-        $this->view->render('Обо мне | ');
+        $this->view->render('About');
     }
 
     public function releaseAction()
     {
-        $this->view->render('Послдений релиз | ');
+        $this->view->render('Last realise');
     }
 }
 
