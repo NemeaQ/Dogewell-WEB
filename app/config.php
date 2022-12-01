@@ -7,5 +7,5 @@
     'mysql_port' => '3306',
     'mysql_base' => 'too',
     'mysql_user' => 'root',
-    'mysql_password' => 'fortnox2014!',
+    'mysql_password' => '*****',
 ];
